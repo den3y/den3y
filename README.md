@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @den3y
+- 👀 I’m interested in LoRaWAN, nodejs, Docker and Kubernetes
+- 🌱 I’m currently learning Kubernetes
